@@ -1,0 +1,5 @@
+package com.kodekul.kondrat.bfsword.logger;
+
+public enum LogerInfo {
+    OBJECT_CREATED, OBJECT_DELETED, OBJECT_ARCHIVED, OBJECT_UPDATED, ID_NOT_FOUND, JSON_DATA_INCOMPLETE, ELEMENT_NOT_FOUND
+}
